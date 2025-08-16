@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Gloria 👋
 
-<!--
-**DevGloriaa/DevGloriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Aspiring Tech Leader | Mathematics & Computer Science Student**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable applications, solving real-world problems, and continuously improving my skills in **Java, Python, Spring Boot, React, and databases**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+- **Languages:** Java, Python, JavaScript, C++  
+- **Frameworks:** Spring Boot, React.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, Postman, VS Code, IntelliJ IDEA  
+
+---
+
+## 📌 Current Projects  
+- **VeriSecure API** – A secure user authentication and authorization API  
+- **Math Fun Zone** – An offline learning platform for practicing math questions  
+
+---
+
+## 🎯 Goals for 2025  
+- Build more **open-source projects**  
+- Earn professional certifications in **Cloud Computing** & **Backend Development**  
+- Land a **software engineering internship**  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/devgloriaa)  
+- [GitHub](https://github.com/DevGloriaa)  
+- Email: glo.obiorah@gmail.com  
+
+⭐ *"Turning ideas into reality, one line of code at a time."*  
