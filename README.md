@@ -6,7 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevGloriaa/DevGloriaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/devgloriaa)
 
-🚀 **Software Developer | Aspiring Tech Leader | Mathematics & Computer Science Student**  
+🚀 **Software Engineer | Blockchain developer | Mathematics & Computer Science Student**  
 
 I’m passionate about building scalable applications, solving real-world problems, and continuously improving my skills in **Java, Python, Spring Boot, React, and databases**.  
 
@@ -20,13 +20,14 @@ I’m passionate about building scalable applications, solving real-world proble
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- 
 
 ---
 
+
 ## 📊 GitHub Stats  
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGloriaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGloriaa&layout=compact&theme=radical)
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGloriaa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGloriaa&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevGloriaa&theme=radical)
 
 ---
 
