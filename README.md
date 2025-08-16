@@ -32,7 +32,11 @@ I’m passionate about building scalable applications, solving real-world proble
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/devgloriaa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gloria_obiorah)  
 📧 Email: **glo.obiorah@gmail.com**  
+
+
+## 🌟 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ⭐ *"Turning ideas into reality, one line of code at a time."*
