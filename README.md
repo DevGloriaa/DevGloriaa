@@ -37,8 +37,7 @@ For me, tech isn’t just about writing code — it’s about creating solutions
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gloria-obiorah/)  
 📧 Email: **glo.obiorah@gmail.com**  
 
-
-## 🌟 Random Dev Quote  
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ⭐ *"Turning ideas into reality, one line of code at a time."*
