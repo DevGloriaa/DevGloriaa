@@ -20,19 +20,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📌 Current Projects  
-- **VeraSecure API** – A secure user authentication and authorization API  
-- **Math Fun Zone** – An offline learning platform for practicing math questions  
-
----
-
-## 🎯 Goals for 2025  
-- Build more **open-source projects**  
-- Earn professional certifications in **Cloud Computing** & **Backend Development**  
-- Land a **software engineering internship**  
+ 
 
 ---
 
