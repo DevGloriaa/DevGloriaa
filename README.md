@@ -1,14 +1,16 @@
 # Hi there, I'm Gloria 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/DevGloriaa?style=social)](https://github.com/DevGloriaa)
-[![GitHub stars](https://img.shields.io/github/stars/DevGloriaa?style=social)](https://github.com/DevGloriaa)
-![Profile views](https://komarev.com/ghpvc/?username=DevGloriaa&color=blueviolet)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevGloriaa/DevGloriaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/devgloriaa)
-
 🚀 **Software Engineer | Blockchain developer | Mathematics & Computer Science Student**  
 
-I’m passionate about building scalable applications, solving real-world problems, and continuously improving my skills in **Java, Python, Spring Boot, React, and databases**.  
+I’m Gloria — a Software Engineer specializing in backend and blockchain development, with a strong academic foundation in Mathematics & Computer Science.
+
+I love turning complex ideas into real, working solutions. Whether it’s building secure blockchain applications, designing REST APIs, or creating seamless full-stack experiences, I enjoy every stage — from concept to deployment.
+
+My toolkit includes Java, Spring Boot, Node.js, React, MongoDB, and MySQL, with hands-on experience in REST API integration, blockchain development, and scalable system design.
+
+Right now, I’m expanding my expertise in smart contracts and advanced backend architecture, while contributing to projects that challenge me to grow.
+
+For me, tech isn’t just about writing code — it’s about creating solutions that make an impact.  
 
 ---
 
@@ -32,7 +34,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gloria_obiorah)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gloria-obiorah/)  
 📧 Email: **glo.obiorah@gmail.com**  
 
 
