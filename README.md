@@ -1,6 +1,6 @@
 # Hi there, I'm Gloria 👋
 
-🚀 **Software Engineer | Blockchain developer | Mathematics & Computer Science Student**  
+🚀 **Software Engineer | Blockchain and Smart Contracts developer| Mathematics & Computer Science Student**  
 
 I’m Gloria — a Software Engineer specializing in backend and blockchain development, with a strong academic foundation in Mathematics & Computer Science.
 
