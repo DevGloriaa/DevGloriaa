@@ -1,24 +1,31 @@
-# Hi there, I'm Gloria 👋
+# Hi there, I'm Gloria 🤗
 
 🚀 **Software Engineer | Blockchain and Smart Contracts developer**  
 
-I’m Gloria — a Software Engineer specializing in backend and blockchain development, with a strong academic foundation in Mathematics & Computer Science.
+## 💫 About Me
 
-I love turning complex ideas into real, working solutions. Whether it’s building secure blockchain applications, designing REST APIs, or creating seamless full-stack experiences, I enjoy every stage — from concept to deployment.
+I’m **Gloria Obiorah**, a passionate **Mathematics and Computer Science student at Covenant University (Class of 2027)**.  
+I believe technology is more than code — it’s a bridge that connects people to better opportunities, easier systems, and meaningful change.
 
-My toolkit includes Java, Spring Boot, Node.js, React, MongoDB, and MySQL, with hands-on experience in REST API integration, blockchain development, and scalable system design.
+I’m deeply driven by a desire to **help people through innovation**. My journey began with solving everyday problems around me — from simplifying learning with **Math Fun Zone**, to rethinking family and group savings through **SmartCollect**, and now developing **PulsePay**, a payroll automation platform that empowers small businesses to pay their teams with ease and reliability.
 
-Right now, I’m expanding my expertise in smart contracts and advanced backend architecture, while contributing to projects that challenge me to grow.
+Every project I work on reflects one goal: **to make life simpler, smarter, and more human through technology**.
 
-For me, tech isn’t just about writing code — it’s about creating solutions that make an impact.  
+💡 **What excites me most:**  
+- Turning ideas into products that solve real problems  
+- Building scalable solutions in **fintech**, **edtech**, and **AI**  
+- Collaborating with people who believe in the power of tech for good  
+
+I’m always learning, creating, and looking for ways to use technology as a tool for impact. Let’s build something that makes a difference. 🌍✨
+ 
 
 ---
 
 ## 🛠 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
