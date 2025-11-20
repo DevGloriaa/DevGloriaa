@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Blockchain and Smart Contracts developer** 
 
-I’m **Gloria Obiorah**, a passionate **Mathematics and Computer Science student at Covenant University (Class of 2027)**.  
+I’m **Gloria Obiorah**, a passionate **Mathematics and Computer Science student at Covenant University**.  
 I believe technology is more than code — it’s a bridge that connects people to better opportunities, easier systems, and meaningful change.
 
 I’m deeply driven by a desire to **help people through innovation**. My journey began with solving everyday problems around me — from simplifying learning with **Math Fun Zone**, to rethinking family and group savings through **SmartCollect**, and now developing **PulsePay**, a payroll automation platform that empowers small businesses to pay their teams with ease and reliability.
