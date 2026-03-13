@@ -1,6 +1,6 @@
 # Hi there, I'm Gloria 🤗
 
-🚀 **Software Engineer | Blockchain and Smart Contracts Developer**
+**Software Engineer | Blockchain and Smart Contracts Developer**
 
 I’m **Gloria Obiorah**, a passionate **Mathematics and Computer Science student at Covenant University**.  
 I believe technology is more than code — it’s a bridge that connects people to better opportunities, easier systems, and meaningful change.
