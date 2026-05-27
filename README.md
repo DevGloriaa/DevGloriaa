@@ -1,12 +1,13 @@
-# Hi there, I'm Gloria 🤗
+# Gloria Obiorah
 
-**Software Engineer | Blockchain and Smart Contracts Developer**
-<a href="https://app.daily.dev/devgloriaa"><img src="https://api.daily.dev/devcards/v2/Bu8Hyi8gWUJbBnc3sg8xX.png?type=wide&r=n5k" width="652" alt="Gloria Obiorah's Dev Card"/></a>
+**Software Engineer · Blockchain & Smart Contracts Developer**
 
-My goal is simple: **to make life simpler, smarter, and more human through technology**.
+> Turning ideas into reality, one line of code at a time.
 
-  
+I build things that make life simpler, smarter, and more human.
+
+<a href="https://app.daily.dev/devgloriaa">
+  <img src="https://api.daily.dev/devcards/v2/Bu8Hyi8gWUJbBnc3sg8xX.png?type=wide&r=n5k" width="652" alt="Gloria Obiorah's Dev Card"/>
+</a>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DevGloriaa&theme=radical&cache_seconds=86400)
-
-
-⭐ *Turning ideas into reality, one line of code at a time.*
