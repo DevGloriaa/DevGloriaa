@@ -1,3 +1,3 @@
-> Turning ideas into reality, one line of code at a time.
+> Becoming a better engineer everyday.
 > 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DevGloriaa&theme=radical&cache_seconds=86400)
